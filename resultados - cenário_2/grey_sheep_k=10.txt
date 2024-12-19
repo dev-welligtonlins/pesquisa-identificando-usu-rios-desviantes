@@ -1,0 +1,45 @@
+1
+
+lista de previsões: [4.2, 3.73, 3.73, 4.51, 3.51]
+lista de notas: [4.0, 4.0, 2.0, 4.0, 5.0]
+O erro médio absoluto do usuário 83, foi: 0.84
+lista de previsões: [4.77, 5.0, 5.0, 5.0, 4.54]
+lista de notas: [4.0, 5.0, 3.0, 5.0, 4.0]
+O erro médio absoluto do usuário 4, foi: 0.66
+lista de previsões: [4.83, 5.0, 4.73, 3.59, 3.81]
+lista de notas: [3.0, 3.0, 4.0, 3.0, 3.0]
+O erro médio absoluto do usuário 26, foi: 1.19
+A média  do erro médio absoluto grupo white de usuário, foi: 0.90
+
+83, 4, 26
+
+2
+
+lista de previsões: [4.45, 3.01, 3.69, 3.01, 4.03]
+lista de notas: [4.0, 3.0, 4.0, 4.0, 4.0]     
+O erro médio absoluto do usuário 92, foi: 0.36
+lista de previsões: [4.24, 4.13, 5.0, 3.9, 3.79]
+lista de notas: [4.0, 4.0, 5.0, 4.0, 4.0]     
+O erro médio absoluto do usuário 37, foi: 0.14
+lista de previsões: [4.98, 3.61, 5.0, 3.06, 4.13]
+lista de notas: [3.0, 3.0, 4.0, 3.0, 5.0]
+O erro médio absoluto do usuário 926, foi: 0.90
+A média  do erro médio absoluto grupo white de usuário, foi: 0.47
+
+92,  37, 926
+
+
+3
+
+lista de previsões: [4.6, 2.83, 3.16, 4.72, 3.05]
+lista de notas: [2.0, 3.0, 2.0, 4.0, 3.0]
+O erro médio absoluto do usuário 49, foi: 0.94
+lista de previsões: [3.32, 5.0, 4.64, 3.32, 4.56]
+lista de notas: [5.0, 4.0, 3.0, 5.0, 2.0]
+O erro médio absoluto do usuário 76, foi: 1.71
+lista de previsões: [3.83, 2.91, 3.29, 3.73, 3.37]
+lista de notas: [3.0, 2.0, 3.0, 4.0, 4.0]
+O erro médio absoluto do usuário 63, foi: 0.59
+A média  do erro médio absoluto grupo white de usuário, foi: 1.08
+
+49, 76, 63

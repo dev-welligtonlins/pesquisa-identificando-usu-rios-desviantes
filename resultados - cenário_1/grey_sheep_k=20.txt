@@ -1,0 +1,46 @@
+1
+
+lista de previsões: [5.0, 5.0, 4.26, 5.0, 4.64]
+lista de notas: [4.0, 2.0, 3.0, 4.0, 3.0]
+O erro médio absoluto do usuário 109, foi: 1.58
+lista de previsões: [5.0, 5.0, 5.0, 5.0, 5.0]
+lista de notas: [5.0, 5.0, 5.0, 5.0, 5.0]
+O erro médio absoluto do usuário 16, foi: 0.00
+lista de previsões: [5.0, 5.0, 5.0, 5.0, 5.0]
+lista de notas: [5.0, 4.0, 4.0, 4.0, 4.0]
+O erro médio absoluto do usuário 200, foi: 0.80
+A média  do erro médio absoluto grupo grey_sheep, foi: 0.79
+
+109, 16, 200
+
+
+2
+
+lista de previsões: [4.28, 5.0, 5.0, 5.0, 5.0]
+lista de notas: [5.0, 2.0, 3.0, 4.0, 2.0]
+O erro médio absoluto do usuário 36, foi: 1.94
+lista de previsões: [5.0, 5.0, 5.0, 5.0, 5.0]
+lista de notas: [4.0, 3.0, 5.0, 3.0, 4.0]
+O erro médio absoluto do usuário 27, foi: 1.20
+lista de previsões: [5.0, 4.75, 4.67, 5.0, 3.23]
+lista de notas: [5.0, 2.0, 5.0, 5.0, 5.0]
+O erro médio absoluto do usuário 95, foi: 0.97
+A média  do erro médio absoluto grupo white de usuário, foi: 1.37
+
+36, 27, 95
+
+
+3
+
+lista de previsões: [5.0, 4.04, 5.0, 5.0, 5.0]
+lista de notas: [3.0, 4.0, 5.0, 4.0, 4.0]     
+O erro médio absoluto do usuário 78, foi: 0.81
+lista de previsões: [5.0, 5.0, 4.91, 5.0, 5.0]
+lista de notas: [3.0, 4.0, 4.0, 4.0, 4.0]     
+O erro médio absoluto do usuário 33, foi: 1.18
+lista de previsões: [3.63, 5.0, 5.0, 5.0, 4.49]
+lista de notas: [5.0, 4.0, 3.0, 5.0, 2.0]
+O erro médio absoluto do usuário 76, foi: 1.37
+A média  do erro médio absoluto grupo grey_sheep, foi: 1.12
+
+78, 33, 76
